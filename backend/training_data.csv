@@ -1,0 +1,61 @@
+Symptoms,Disease
+fever cough headache,Flu
+fever sore throat cough,Flu
+high temperature chills body ache,Flu
+headache nausea dizziness,Migraine
+severe headache light sensitivity,Migraine
+blurred vision headache nausea,Migraine
+stomach pain acid reflux,Gastritis
+abdominal burning indigestion,Gastritis
+bloating nausea upper stomach pain,Gastritis
+sore throat runny nose cough,Common Cold
+sneezing mild fever sore throat,Common Cold
+blocked nose watery eyes cough,Common Cold
+chest pain shortness of breath,Heart Issue
+irregular heartbeat chest pressure,Heart Issue
+chest pain fatigue dizziness,Heart Issue
+fatigue weakness pale skin,Anemia
+shortness of breath brittle nails,Anemia
+cold hands dizziness pale skin,Anemia
+fever muscle pain chills,Dengue
+rash headache joint pain fever,Dengue
+high fever bleeding gums weakness,Dengue
+rash fever joint pain,Chikungunya
+headache nausea rash joint pain,Chikungunya
+fever severe joint stiffness,Chikungunya
+sneezing itchy eyes nasal congestion,Allergy
+skin rash watery eyes sneezing,Allergy
+cough wheezing runny nose,Allergy
+abdominal pain diarrhea,Food Poisoning
+vomiting nausea abdominal cramps,Food Poisoning
+loose motion dehydration fever,Food Poisoning
+joint pain swelling,Arthritis
+joint stiffness morning pain,Arthritis
+back pain knee swelling,Arthritis
+frequent urination burning sensation,Urinary Tract Infection
+lower abdominal pain frequent urination,Urinary Tract Infection
+blood in urine burning sensation,Urinary Tract Infection
+persistent cough blood in sputum,Tuberculosis
+chest pain night sweats fever,Tuberculosis
+weight loss long cough fatigue,Tuberculosis
+weight loss excessive hunger,Diabetes
+frequent urination increased thirst,Diabetes
+blurred vision slow healing wounds,Diabetes
+high fever stiff neck headache,Meningitis
+vomiting seizures confusion,Meningitis
+sensitivity to light neck stiffness,Meningitis
+chest discomfort sweating,Angina
+chest tightness pain arm,Angina
+shortness of breath fatigue chest pressure,Angina
+memory loss confusion,Alzheimer
+difficulty speaking disorientation,Alzheimer
+forgetfulness mood changes,Alzheimer
+sudden weakness one side face,Stroke
+difficulty speaking loss of balance,Stroke
+vision problems sudden numbness,Stroke
+severe abdominal pain vomiting,Appendicitis
+loss of appetite fever nausea,Appendicitis
+lower right abdominal pain tenderness,Appendicitis
+itchy skin redness swelling,Eczema
+dry scaly patches itchy skin,Eczema
+skin inflammation rash dryness,Eczema
